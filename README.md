@@ -1,2 +1,2 @@
 # Kaggle-Project
-This repository recorded my exercises in Kaggle. Within the project I tried out some new way to solve the problems other than the suggestions. Basically a playground of coding haha.
+This repository recorded my exercises in Kaggle. Kindly note that the coding might be a bit different from the standard answer: sometimes I might try out some other ways which are a bit different from the suggested to solve the problems.
